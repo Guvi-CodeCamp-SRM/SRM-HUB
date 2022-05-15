@@ -1,0 +1,23 @@
+body{
+    background-color: #393e41;
+}
+.contnav li{
+    list-style: none;
+    
+    
+}
+.contnav{
+    float: right;
+    display: inline block;
+    background-color: #393e41;
+    height: 93vh;
+    
+    
+}
+
+.contnav ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    row-gap: 11vh;
+}
