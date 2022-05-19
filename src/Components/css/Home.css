@@ -1,0 +1,101 @@
+.conthome{
+    background-color: #393e41;
+}
+
+.contdiv{
+    
+    display: flex;
+    justify-content: center;
+    /* height: 50%; */
+}
+.one{
+    background-color: #d3d0cb;
+    margin: 20px;
+    border-radius: 20px;
+    width: 40%;
+    
+}
+.two{
+    background-color: #d3d0cb;
+    margin: 20px;
+    border-radius: 20px;
+    width: 60%;
+}
+.onelite{
+    display: flex;
+}
+.onea{
+    background-color: #e7e5df;
+    border-radius: 20px;
+    margin: 20px;
+    font-size: 15px;
+    width: 300px;
+    text-align: center;
+}
+.oneb{
+    background-color: #e7e5df;
+    border-radius: 20px;
+    margin: 20px;
+    font-size: 15px;
+    width: 300px;
+    text-align: center;
+}
+.one h2{
+    color: #e7bb41;
+    text-align: center;
+}
+.two h2{
+    color: #e7bb41;
+    text-align: center;
+}
+.twolite{
+    display: flex;
+    flex-wrap: wrap;
+}
+.twoa{
+    background-color: #e7e5df;
+    margin: 10px;
+    width: 30%;
+    height: 10vh;
+    text-align: center;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.onex{
+    height: 20vh;
+    
+    align-content: center center; 
+    vertical-align: middle;
+    line-height: 16vh; 
+}
+
+.twox{
+    text-align: center;
+}
+.twox h1{
+    color: red;
+}
+
+.twox p{
+    margin: 7px;
+    font-size: larger;
+}
+.p1{
+    color: #0171f8;
+}
+.p2{
+    color: #1f90e3;
+}
+.p3{
+    color: #11a3d5;
+}
+.p4{
+    color: #00b1cb;
+}
+.p5{
+    color: #02c5bd;
+}
+.p6{
+    color: #00deab;
+}
