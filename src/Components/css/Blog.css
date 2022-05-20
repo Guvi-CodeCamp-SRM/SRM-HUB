@@ -1,0 +1,41 @@
+.container{
+
+    
+    
+    background-color: #d3d0cb;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+    
+    }
+    
+    .text{
+    display: inline;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 300;
+    }
+    
+    .read-or-hide{
+    color: rgb(192,192,192);
+    cursor: pointer;
+    }
+
+    .conth2{
+        background-color: #e7e5df;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 10px;
+        width: 40%;
+    }
+    .conth3{
+        text-align: center;
+    }
+    
+    .contextra{
+        
+        flex-basis: 100%;
+        text-align: center;
+        color: #e6bb42;
+    }
