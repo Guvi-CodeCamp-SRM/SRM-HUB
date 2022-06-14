@@ -1,0 +1,61 @@
+.conttech{
+    background-color: #d3d0cb;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.techextra{
+        
+    flex-basis: 100%;
+    text-align: center;
+    color: #e6bb42;
+}
+
+.techbox{
+    border: 10px solid white;
+    border-radius: 10px;
+    background-color: #e6bb42;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+    justify-content: center;
+    
+}
+.techhead{
+    flex-basis: 100%;
+    text-align: center;
+}
+.techoption{
+    color: #e6bb42;
+    background-color: #393e41;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 30px ;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    
+    
+}
+.techbigoption{
+    color: #e6bb42;
+    background-color: #393e41;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px ;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    height: auto;
+    flex-basis: 100%;
+    text-align: center;
+    width: 40%;
+
+}
+.techquestion{
+    display: flex;
+    flex-wrap: wrap;
+}
