@@ -33,3 +33,27 @@
     margin: 10px;
     font-size: 20px;
 }
+.popl{
+    background-color: white;
+    opacity: .9;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 20px;
+    height: auto;
+    width: 30vw;
+}
+
+.popl h3{
+    padding: 10px;
+    font-size: 50px;
+    color: #e7bb41;
+}
+.popl input{
+    margin: 30px;
+    margin-bottom: 0px;
+}
+.popl button{
+    margin: 50px;
+}
